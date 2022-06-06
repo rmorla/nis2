@@ -28,9 +28,9 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 
 ### Details
-[Cybersecurity requirements](risk.MD)
+[Cybersecurity requirements](secreq.MD)
 
-[Reporting obligations](notification.MD)
+[Reporting obligations](reporting.MD)
 
 [Categories](categories.MD)
 
