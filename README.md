@@ -24,8 +24,17 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 [NIS, GDPR status](status.MD)
 
-[Timeline](timeline.MD)
 
-[Notification](notification.MD)
+
+[Cybersecurity Requirements](risk.MD)
+
+[Reporting Obligations](notification.MD)
+
+[Categories](categories.MD)
+
+[Supervision and sanctions](supervision.MD)
+
+
+[Timeline](timeline.MD)
 
 [Academic Paper Reference](papers.MD)
