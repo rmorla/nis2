@@ -18,9 +18,9 @@
 
 (c)a final report not later than one month after the submission of the report under point (a), including at least the following:
 
-(i)a detailed description of the incident, its severity and impact;
+    (i)a detailed description of the incident, its severity and impact;
 
-(ii)the type of threat or root cause that likely triggered the incident;
+    (ii)the type of threat or root cause that likely triggered the incident;
 
-(iii)applied and ongoing mitigation measures.
+    (iii)applied and ongoing mitigation measures.
 
