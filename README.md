@@ -32,9 +32,9 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 [Reporting obligations](reporting.MD)
 
-[Categories](categories.MD)
-
 [Supervision and sanctions](supervision.MD)
+
+[Categories](categories.MD)
 
 ### references
 [Timeline](timeline.MD)
