@@ -14,3 +14,7 @@ Harmonising cyber protection across Europe: The digital industry’s basic asks 
 Digital Europe trade association\
 https://www.digitaleurope.org/resources/harmonising-cyber-protection-across-europe-the-digital-industrys-basic-asks-for-the-nis2-trilogues/
 
+
+Sandra Schmitz, Univ. Luxembourg\
+The NIS 2.0 Directive – Lessons Learnt or Lagging Behind? A Legal Perspective\
+https://nisduc-cloud.list.lu/index.php/s/5a4Woy6tyLQLYiS
