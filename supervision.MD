@@ -1,6 +1,7 @@
 
 # Supervision and enforcement
 
+## Checks
 
 **competent authorities ... have the power to subject those entities to** (Essential EE vs. Important IE entities)
 
@@ -20,6 +21,7 @@
 
 (g)**EE** requests for evidence of implementation of cybersecurity policies, such as the results of security audits carried out by a qualified auditor and the respective underlying evidence.
 
+## Enforcement
 
 **competent authorities ... have the power to:**
 
@@ -43,6 +45,7 @@
 
 (j)impose or request the imposition by the relevant bodies or courts according to national laws of an administrative fine pursuant to Article 31 in addition to, or instead of, the measures referred to in points (a) to (i) of this paragraph, depending on the circumstances of each individual case.
 
+## Suspension
 
 **competent authorities have the power to:** (Essential entities only)
 
