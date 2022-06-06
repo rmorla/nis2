@@ -28,13 +28,15 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 
 ### Details
+
+[Categories](categories.MD)
+
 [Cybersecurity requirements](secreq.MD)
 
 [Reporting obligations](reporting.MD)
 
 [Supervision and sanctions](supervision.MD)
 
-[Categories](categories.MD)
 
 ### References
 [Timeline](timeline.MD)
