@@ -38,7 +38,7 @@ https://www.digitaleurope.org/resources/harmonising-cyber-protection-across-euro
 ## NIS, GDPR status
 
 NIS implementation tracker\
-DigitalEurope
+DigitalEurope\
 https://www.digitaleurope.org/resources/nis-implementation-tracker/
 
 Two years of DGPR\
