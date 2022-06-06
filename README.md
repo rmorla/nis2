@@ -20,7 +20,7 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 ## About the directives and regulation
 
-[NIS2 explained](qa.md)
+[NIS2 explained](qa.MD)
 
-[NIS, GDPR status](status.md)
+[NIS, GDPR status](status.MD)
 
