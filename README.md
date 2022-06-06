@@ -1,4 +1,4 @@
 # nis2
 
-? pointers to the revision of the NIS directive
+Pointers to the revision of the NIS directive.
 
