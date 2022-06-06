@@ -36,7 +36,7 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 [Categories](categories.MD)
 
-### references
+### References
 [Timeline](timeline.MD)
 
 [Academic paper reference](papers.MD)
