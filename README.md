@@ -20,12 +20,14 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 ## About the directives and regulation
 
+### overview
+
 [NIS2 explained](qa.MD)
 
 [NIS, GDPR status](status.MD)
 
 
-
+### details
 [Cybersecurity Requirements](risk.MD)
 
 [Reporting Obligations](notification.MD)
@@ -34,7 +36,7 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 [Supervision and sanctions](supervision.MD)
 
-
+### references
 [Timeline](timeline.MD)
 
 [Academic Paper Reference](papers.MD)
