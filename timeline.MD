@@ -15,3 +15,6 @@ Press Release, provisional agreement Council and Parliament\
 13 May 2022\
 https://www.consilium.europa.eu/en/press/press-releases/2022/05/13/renforcer-la-cybersecurite-et-la-resilience-a-l-echelle-de-l-ue-accord-provisoire-du-conseil-et-du-parlement-europeen/
 
+Legislative Train Schedule\
+20 May 2022\
+https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-review-of-the-nis-directive
