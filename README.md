@@ -2,6 +2,7 @@
 
 Pointers to the revision of the NIS directive.
 
+A quick overview of the NIS revision: [slides](nis2 overview.pdf)
 
 ## The directives and regulation
 
